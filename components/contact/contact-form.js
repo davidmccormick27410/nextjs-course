@@ -81,7 +81,7 @@ function ContactForm() {
   if (requestStatus === 'error') {
     notification = {
       status: 'error',
-      title: 'Error!',
+      title: 'Error!!!!',
       message: requestError,
     };
   }
